@@ -1,0 +1,5 @@
+{
+  "name": "A1-302 Çeviri",
+  "description": "A modern translation application powered by the Gemini API. It features a translation tool, a favorites section with a flashcard game, and a history of your translations.",
+  "requestFramePermissions": []
+}
